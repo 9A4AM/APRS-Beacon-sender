@@ -1,0 +1,75 @@
+                      TCPTap - TCP Traffic Capture Tool (0.10.1 beta)
+                        Copyright © 2001 Robert D. Riemersma, Jr.
+
+               Capture Mode: ASCII
+                Client Port: 8023 
+                Server Port: 23 
+                Server Host: localhost
+       Capture file created: C:\Documents and Settings\George\Desktop\TelnetTTY\ttty.log
+
+          Capture initiated: 07/16/2005 4:56:59 PM
+
+
+16:57:11  Client connected.  Port 8023 Host [IP 127.0.0.1]
+
+
+16:57:11  Server connected.  Port 23 Host "localhost" [IP 127.0.0.1]
+
+16:57:11  ->  0000 FF FE 01                                         ÿþ.
+16:57:11  <-  0000 FF FB 01 FF FB 03 FF FD 27 FF FD 1F FF FD 00 FF  ÿû.ÿû.ÿý'ÿý.ÿý.ÿ
+              0010 FB 00                                            û.
+16:57:11  <-  0000 57 65 6C 63 6F 6D 65 20 74 6F 20 4D 69 63 72 6F  Welcome to Micro
+              0010 73 6F 66 74 20 54 65 6C 6E 65 74 20 53 65 72 76  soft Telnet Serv
+              0020 69 63 65 20 0D 0A                                ice ..
+16:57:13  ->  0000 FF FE 03 FF FC 27 FF FC 1F FF FC 00 FF FE 00     ÿþ.ÿü'ÿü.ÿü.ÿþ.
+16:57:13  <-  0000 0A 0D 6C 6F 67 69 6E 3A 20                       ..login: 
+16:57:18  ->  0000 67 65 6F 72 67 65 0D 0A                          george..
+16:57:18  <-  0000 67 65 6F 72 67 65 0A 0D 70 61 73 73 77 6F 72 64  george..password
+              0010 3A 20                                            : 
+16:57:20  ->  0000 XX XX XX XX XX 0D 0A                             XXXXX..
+16:57:20  <-  0000 FF FD 18                                         ÿý.
+16:57:20  ->  0000 FF FB 18                                         ÿû.
+16:57:20  <-  0000 FF FA 18 01 FF F0                                ÿú..ÿð
+16:57:20  ->  0000 FF FA 18 00 4E 56 54 FF F0                       ÿú..NVTÿð
+16:57:20  <-  0000 FF FA 18 01 FF F0                                ÿú..ÿð
+16:57:20  ->  0000 FF FA 18 00 54 54 59 FF F0                       ÿú..TTYÿð
+16:57:20  <-  0000 FF FA 18 01 FF F0                                ÿú..ÿð
+16:57:20  ->  0000 FF FA 18 00 54 54 59 FF F0                       ÿú..TTYÿð
+16:57:20  <-  0000 0D 0A 0D 0A 2A 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D  ....*===========
+              0010 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D  ================
+              0020 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D  ================
+              0030 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D  ================
+              0040 3D 3D 3D 3D 0D 0A 57 65 6C 63 6F 6D 65 20 74 6F  ====..Welcome to
+              0050 20 4D 69 63 72 6F 73 6F 66 74 20 54 65 6C 6E 65   Microsoft Telne
+              0060 74 20 53 65 72 76 65 72 2E 0D 0A 2A 3D 3D 3D 3D  t Server...*====
+              0070 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D  ================
+              0080 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D  ================
+              0090 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D  ================
+              00A0 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 0D 0A 43 3A 5C  ===========..C:\
+              00B0 44 6F 63 75 6D 65 6E 74 73 20 61 6E 64 20 53 65  Documents and Se
+              00C0 74 74 69 6E 67 73 5C 47 65 6F 72 67 65 3E        ttings\George>
+16:57:24  ->  0000 63 64 20 5C 0D 0A                                cd \..
+16:57:24  <-  0000 63 64 20 5C 0D 0A 0D 0A 43 3A 5C 3E              cd \....C:\>
+16:57:26  ->  0000 65 78 69 74 0D 0A                                exit..
+
+16:57:26  Server port 23 closed.
+
+
+16:57:59  Connections reset by TCPTap operator!
+
+
+16:57:59  Client port 8023 closed.
+
+
+16:58:01  Client port 8023 closed.
+
+
+         Capture terminated: 07/16/2005 4:58:01 PM
+
+ Client Port Traffic Totals:       10 sent            75 bytes.
+ Server Port Traffic Totals:       10 xcvd           322 bytes.
+
+- - - - - - - - - - - - - - - End of TCPTap capture report. - - - - - - - - - - - - - - -
+
+
+
